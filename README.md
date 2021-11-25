@@ -1,2 +1,2 @@
-# javascript
+# Javascript
  Meu curso de JavaScript
